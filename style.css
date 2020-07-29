@@ -1,14 +1,27 @@
 @media (max-width : 1500px) {
+    body {
+      display: flex;
+      flex-direction: column;
+    }
+
     .main-section {
-      margin-left: 100px; 
+      margin-left: 0px;
     }
   }
-  
+
   .main-section {
-    margin-left: 450px;
+    margin-left: 400px;
     margin-top: 40px;  
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
+  }
+
+  #navbar {
+    position: fixed;
+    flex-wrap: nowrap;
+    width: 100%;
+    top: 15px;
+    padding-left: 10px;
   }
   
   .main-section header {
@@ -16,12 +29,6 @@
     font-family: 'Poppins', sans-serif;
   }
   
-  #navbar {
-    position: fixed;
-    width: 400px;
-    top: 15px;
-    padding-left: 10px;
-  }
   
   #navbar header {
     font-size: 45px;
