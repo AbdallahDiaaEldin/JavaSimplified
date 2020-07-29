@@ -1,0 +1,54 @@
+@media (max-width : 1500px) {
+    .main-section {
+      margin-left: 100px; 
+    }
+  }
+  
+  .main-section {
+    margin-left: 450px;
+    margin-top: 40px;  
+  }
+  
+  .main-section header {
+    font-size: 35px;
+  }
+  
+  #navbar {
+    position: fixed;
+    width: 400px;
+    top: 15px;
+    padding-left: 10px;
+  }
+  
+  #navbar header {
+    font-size: 45px;
+  }
+  
+  #navlist {
+    list-style-type: none;
+    margin: 0;
+    
+    padding: 20px 0px 0px 10px;
+    font-size: 25px;
+  }
+  
+  #navlist li {
+    padding: 10px;
+  }
+  
+  #navlist a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  code {
+    display: block;
+    background-color: rgb(240,240,240);
+    padding: 15px 0px 15px 35px;
+    margin-left: 35px;
+    margin-right: 35px;
+  }
+  
+  p {
+    padding-left: 20px;
+  }
