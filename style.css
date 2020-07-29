@@ -7,10 +7,13 @@
   .main-section {
     margin-left: 450px;
     margin-top: 40px;  
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
   }
   
   .main-section header {
-    font-size: 35px;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
   }
   
   #navbar {
@@ -22,6 +25,7 @@
   
   #navbar header {
     font-size: 45px;
+    font-family: 'Ubuntu', sans-serif;
   }
   
   #navlist {
@@ -39,6 +43,7 @@
   #navlist a {
     text-decoration: none;
     color: rgb(88, 88, 88);
+    font-family: 'Poppins', sans-serif;
   }
   
   code {
@@ -47,6 +52,9 @@
     padding: 15px 0px 15px 35px;
     margin-left: 35px;
     margin-right: 35px;
+
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
   }
   
   p {
