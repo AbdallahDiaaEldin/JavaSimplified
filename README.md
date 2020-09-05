@@ -11,5 +11,5 @@ Sept 5 - Workshop content done, started working on more topics.
 
 ## Things To Work On
 
-1. Add pictures to existing content so it is easier to understand the content in question.
+1. [x] Add pictures to existing content so it is easier to understand the content in question.
 2. Start working on the 'Loops' section.
