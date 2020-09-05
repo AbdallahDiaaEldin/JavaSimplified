@@ -6,12 +6,11 @@ Initially the project was created to assist students in a workshop I was doing. 
 
 ## Timeline
 
-* Jul 29 - Started project and added all the basic topics.
+Jul 29 - Started project and added all the basic topics.
 
-* Sept 5 - Workshop content done, started working on more topics.
+Sept 5 - Workshop content done, started working on more topics.
 
 ## Features
 
-*
-* [] Add pictures to existing content so it is easier to understand the content in question.
-* [] Start working on the 'Loops' section.
+* [ ] Add pictures to existing content so it is easier to understand the content in question.
+* [ ] Start working on the 'Loops' section.
