@@ -10,7 +10,7 @@ Jul 29 - Started project and added all the basic topics.
 
 Sept 5 - Workshop content done, started working on more topics.
 
-## Features
+## Things to Work On
 
 * [ ] Add pictures to existing content so it is easier to understand the content in question.
 * [ ] Start working on the 'Loops' section.
